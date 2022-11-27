@@ -3,8 +3,6 @@
 #include <vector>
 #include <memory>
 
-#include <boost/any.hpp>
-
 using Byte = std::uint8_t;
 
 template<int Twidth>
