@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2024 Dominik Wójt <domin144@o2.pl>
+#
+# SPDX-License-Identifier: Apache-2.0
+
 ﻿---
 BasedOnStyle: WebKit
 AlignAfterOpenBracket: AlwaysBreak
@@ -33,6 +37,6 @@ ConstructorInitializerAllOnOneLineOrOnePerLine: true
 Cpp11BracedListStyle: true
 NamespaceIndentation: None
 TabWidth: 4
-UseTab: ForIndentation
+UseTab: Never
 
 ...

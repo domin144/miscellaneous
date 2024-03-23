@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2016 Dominik Wójt <domin144@o2.pl>
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 #include <iostream>
 #include <plplot/plstream.h>
 

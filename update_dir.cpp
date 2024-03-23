@@ -1,3 +1,9 @@
+/*
+ * SPDX-FileCopyrightText: 2023 Dominik Wójt <domin144@o2.pl>
+ *
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 #include <boost/program_options.hpp>
 #include <exception>
 #include <filesystem>

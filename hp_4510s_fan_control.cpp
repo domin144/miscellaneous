@@ -1,25 +1,13 @@
 /*
- * Copyright 2016 Dominik Wójt
+ * SPDX-FileCopyrightText: 2014-2015 Rok Krajl
+ * SPDX-FileCopyrightText: 2016 Dominik Wójt <domin144@o2.pl>
  *
- * This file contains code for controling fan speed of HP 4510s laptop computer.
- *
- * This file is free software: you can redistribute it and/or modify
- * it under the terms of the GNU General Public License as published by
- * the Free Software Foundation, either version 3 of the License, or
- * (at your option) any later version.
- *
- * This file is distributed in the hope that it will be useful,
- * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License
- * along with this file.  If not, see <http://www.gnu.org/licenses/>.
- *
+ * SPDX-License-Identifier: Apache-2.0
  */
 
 const char help[] =
 R"(This software is based on https://github.com/strelec/HP-4510s-fan-control
+This program is for controling fan speed of HP 4510s laptop computer.
 
 Modifications to the original are:
 - fixed cooling_device numbers, this is probably due to BIOS update in the

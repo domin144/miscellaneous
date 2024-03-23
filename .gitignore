@@ -1,4 +1,9 @@
+# SPDX-FileCopyrightText: 2024 Dominik Wójt <domin144@o2.pl>
+#
+# SPDX-License-Identifier: Apache-2.0
+
 .cache/
+.reuse/
 .vscode/
 CMakeLists.txt.user*
 compile_commands.json
